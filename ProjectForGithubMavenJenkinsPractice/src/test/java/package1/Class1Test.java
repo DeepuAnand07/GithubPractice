@@ -9,5 +9,6 @@ public class Class1Test {
 	public void SampleTest() {
 
 		Reporter.log("<<<<<<<<<<<<<HI>>>>>>>>>>>>>>",true);
+		Reporter.log("<<<<<<<<<<<<<HI>>>>>>>>>>>>>>",true);
 	}
 }
