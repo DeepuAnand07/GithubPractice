@@ -10,5 +10,6 @@ public class Class1Test {
 
 		Reporter.log("<<<<<<<<<<<<<HI>>>>>>>>>>>>>>",true);
 		Reporter.log("<<<<<<<<<<<<<HI>>>>>>>>>>>>>>",true);
+		Reporter.log("Hi Githubbb");
 	}
 }
